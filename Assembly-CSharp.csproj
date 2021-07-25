@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{707DC9B2-0B0B-C785-2105-2261E0D90F0F}</ProjectGuid>
+    <ProjectGuid>{1A5DB484-FEA8-6E84-C944-478B5D731675}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -57,9 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Game.cs" />
+    <Compile Include="Assets\AnswerClippersScipt.cs" />
     <Compile Include="Assets\Controller.cs" />
     <Compile Include="Assets\AnswerRockScript.cs" />
-    <Compile Include="Assets\AnswerClippersScipt.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

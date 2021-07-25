@@ -12,13 +12,13 @@ public class AnswerClippersScipt : MonoBehaviour, IPointerClickHandler
     {
         Debug.Log("нажатие зарегистрировано");
 
-        sendAnswer("ножници");
+        sendAnswer("ножницы");
     }
 
 
     void Start()
     {
-        Debug.Log("ножници");
+        Debug.Log("ножницы");
         GameObject controller = GameObject.Find("Contoller");
         ControllScript = controller.GetComponent<Controller>();
     }
