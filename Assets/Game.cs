@@ -58,7 +58,7 @@ class Game
 
         round++;
 
-        int value = Random.Range(0, 2);
+        int value = Random.Range(0, 3);
 
         string botAnswer = "";
 

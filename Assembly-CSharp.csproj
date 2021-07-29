@@ -60,6 +60,7 @@
     <Compile Include="Assets\AnswerClippersScipt.cs" />
     <Compile Include="Assets\Controller.cs" />
     <Compile Include="Assets\AnswerRockScript.cs" />
+    <Compile Include="Assets\AnswerPapper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
